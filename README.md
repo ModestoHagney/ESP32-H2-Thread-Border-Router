@@ -1,3 +1,9 @@
+I used Cluade to help me get an ESP32-H2 setup as a Thread border router.
+Figured I should push the code to github so I would have it saved somewhere so I can refer back to it when I inevitably break something in a couple years. Created the repo using VSCode, but **I DIDN'T WRITE THIS README!!**
+Use it with caution, I assume some sort of VSCode AI generated it all.
+
+
+
 | Supported Targets | ESP32-C5 | ESP32-C6 | ESP32-H2 |
 | ----------------- | -------- | -------- | -------- |
 
